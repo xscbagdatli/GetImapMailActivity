@@ -26,7 +26,7 @@ An activity for uipath that can receive and filter emails with imap and mark onl
 
 -Bu aktivite ile filtreleme yapacağınız yerde contains olarak kelime arayabilirsiniz 
 
--Bu aktivite ile sadece filtrenize uygun mesajların okundutipini isterseniz değiştirebilirsiniz
+-Bu aktivite ile sadece filtrenize uygun mesajların okundu tipini isterseniz değiştirebilirsiniz
 
  // !!! OutArguman size List<MimeMessage> tipi ile döner bunu unutmayın.
  
